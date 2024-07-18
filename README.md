@@ -13,8 +13,8 @@
 编译运行之后，先输入一个正整数n，n表示一个随机数组中数的数量，意味着排序的规模
 ## English
 ### Description
-This project writes a number of sorting algorithms, which sorts an array of random numbers given the size of the array, and counts and compares the time of the major sorting algorithms  
-The sorting algorithms in this project are: bubble sorting, selection sorting, insertion sorting, quick sorting, another quick sort, merge sorting, Hill sorting, comb sorting, goblin sorting, cardinality sorting, heap sorting, bucket sorting, a total of 12 sorting algorithms
+This project writes a number of sort algorithms, which sorts an array of random numbers given the size of the array, and counts and compares the time of the major sort algorithms  
+The sort algorithms in this project are: bubble sort, selection sort, insertion sort, quick sort, another quick sort, merge sort, shell sort, comb sort, Gnome sort, radix sort, heap sort, bucket sort, a total of 12 sort algorithms
 
 ### Project structure
 - Class definitions and function declarations are in All_in.h  
